@@ -11,7 +11,7 @@ const Main = () => {
         </div>
         <div className="main-container">
             <div className="greet">
-                <p className=""><span>Hello, Rek.</span></p>
+                <p className=""><span>Halo, Rek.</span></p>
                 <p>How Can I Help You Today?</p>
             </div>
             <div className="cards">
