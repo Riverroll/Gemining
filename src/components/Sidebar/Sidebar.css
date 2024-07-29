@@ -12,7 +12,7 @@
 }
 
 .sidebar .menu{
-    display:block;
+    display: block;
     margin-left: 10px;
     cursor: pointer;
 }
@@ -33,7 +33,6 @@
 .sidebar .recent{
     display: flex;
     flex-direction: column;
-
 }
 
 .sidebar .recent-title{
@@ -47,7 +46,7 @@
     gap: 10px;
     padding: 10px;
     padding-right: 40px;
-    border-radius:50px;
+    border-radius: 50px;
     color: #282828;
     cursor: pointer;
 }
